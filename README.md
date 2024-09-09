@@ -1,6 +1,6 @@
 This is the TastyTales Recipes Project
 
-#  https://pop2323.github.io/The-Odin-Project-TastyTales-Recipes/
+ [TastyTales Recipes] (https://pop2323.github.io/The-Odin-Project-TastyTales-Recipes/)
 
 # The Home Page
 <img src="./imgs/large_device.png" alt="img" width="1100px" height="790px">
